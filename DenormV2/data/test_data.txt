@@ -1,0 +1,66 @@
+# Test converting surnames
+some data abakończyk data data afryka achilles data panią achilles
+Some data Abakończyk data data Afryka Achilles data Panią Achilles 
+
+# Test converting names
+some data achilles data bernardyn abakończyk ddd panią bernardyn
+Some data Achilles data Bernardyn Abakończyk ddd Panią Bernardyn
+
+# Test salutations
+some data data panią
+Some data data Panią
+
+# Test abbreviations
+data text cytat data text anno domini 100 część text text część cytat.
+Data text cyt. data text AD 100 cz. text text część cyt.
+
+# Test number symbols
+text data 10.1 złotego text złotego 10
+Text data 10.1 zł text złotego 10
+
+# Test capitalize initials
+test data a. ababicki data, some a.b. ababicki data ś.ł. ababicki string ś. data
+Test data A. Ababicki data, some A.B. Ababicki data Ś.Ł. Ababicki string ś. data
+
+kwota ta Abalin
+Kwota ta Abalin
+
+some a. Abalin
+Some A. Abalin
+
+datadata ababicki a.b. texttext
+Datadata Ababicki A.B. texttext
+
+# Test comma insertion
+data string tylko data data, tylko data data
+Data string, tylko data data, tylko data data
+
+# Test exclamation
+szurum-burum.
+Szurum-burum!
+
+# Number in words to number
+date text czterdziestej drugiej text some data tree tysiąc trzysta trzynastej
+Date text 42 text some data tree 1313
+
+# Date conversion
+some text dwudziesty pierwszy marca tysiąc dwieście trzydziestej pierwszej other text
+Some text 21-03-1231 other text
+
+siedemnasty Czerwca
+17-06
+
+trzydziestej czwartej czerwca
+34 czerwca
+
+# Roman numbers
+173 someword 56 w. or something else wiek 10
+173 someword LVI w. or something else w. X
+
+# Spaces on punctuation
+Some text "text" text's text
+Some text "text" text's text
+
+# Real word data
+wyniki badania przeprowadzonego przez brytyjskie stowarzyszenie alcs ujawniają drastyczny spadek dochodów zawodowych pisarzy a także coraz mniejszą liczbę tych którzy są w stanie utrzymać się wyłącznie z pisania.
+Wyniki badania przeprowadzonego przez brytyjskie stowarzyszenie alcs ujawniają drastyczny spadek dochodów zawodowych pisarzy, a także coraz mniejszą liczbę tych którzy są w stanie utrzymać się wyłącznie z pisania.

@@ -1,0 +1,180 @@
+absolwent;absolw.
+akademia medyczna;a.m.
+Akademia Medyczna;AM
+akapit;acc.
+akta stanu cywilnego;a.s.c.
+aleja;al.
+amper;A
+angielski;ang.
+anno Domini;AD
+architekt;arch.
+arcybiskup;abp
+artysta;art.
+bardzo dobry;bdb
+belgijski;belg.
+Biblioteka Narodowa;BN
+bieżącego miesiąca;bm.
+bieżący rok;br.
+biskup;bp
+błogosławiony;bł.
+błogosławionej pamięci;błp.
+botanika;bot.
+ciąg dalszy nastąpi;cdn.
+cosinus;cos
+cytat;cyt.
+cytowany;cyt.
+czytaj;czyt.
+dekagram;dag
+dentysta;dent.
+departament;dep.
+diagnoza;diag.
+do spraw;ds.
+dobry;db
+docent;doc.
+doktor;dr;
+doktorzy, doktorowie;dr
+doktor nauk medycznych;dr n. med.
+dosłowny;dosł.
+dostateczny;dst, dost
+dyrektor;dyr.
+farmacja;farm.
+fotografia;fot.
+generał;gen.
+godzina;godz.
+gram;g
+grosz;gr
+habilitowany;hab.
+hrabia;hr.
+i inne;i in.
+i inni;i in.
+i tak dalej;itd.
+i tym podobne;itp.
+i współautorzy;i wsp.
+i współpracownicy;i wsp.
+instytut;inst.
+inżynier;inż.
+jak wyżej;jw.
+język;jęz.
+junior;jr
+kardynał;kard.
+kolega;kol.
+kolumna;kol.; 
+kopiejka;kop.
+ksiądz;ks.
+książkowy;książ.
+książę;ks.
+lekarz;lek.
+lekarz dentysta;lek. dent.
+lekarz stomatolog;lek. stom.
+lekarz weterynarz;lek. wet.
+licencjat;lic.
+liczba;l.
+liczba mnoga;lm.
+liczba porządkowa;lp.
+liczba pojedyncza;lp.
+literacki;lit.
+litr;l
+logarytm;log
+logarytm naturalny;ln
+łaciński;łac.
+magister;mgr
+major;mjr
+masa ciała;mc.
+medycyna;med.
+metr bieżący;m.b.
+metr kwadratowy;mkw.
+męski;m.
+miesiąc;mies.
+między innymi;m.in.
+minuta;min
+nad;n.
+nad poziomem morza;n.p.m.
+na przykład;np.
+następny;nast.
+naszej ery;n.e.
+na temat;nt.
+niedostateczny;ndst
+niżej wymieniony;nw.
+notabene;nb.
+Nowy Testament;NT
+numer;nr
+obywatel;ob.
+ograniczona odpowiedzialność;o.o.
+ogród zoologiczny;zoo
+ojciec;o.
+ojcowie;oo.
+osiedle;os.
+pan;p.
+pani;p.
+państwo;pp.
+patrz;p.
+pełniący obowiązki;p.o.
+plac;pl.
+plan;pl.
+plansza;pl.
+pochodzenie;poch.
+pod nazwą;pn.
+pod tytułem;pt.
+pojedynczy;poj.
+Polska Norma;PN
+południowy;płd.
+post scriptum;PS
+powierzchnia;pow.
+północny;płn.
+profesor;prof.
+przeciętny;przec.
+przed naszą erą;p.n.e.
+pułkownik;płk
+rodzaj;r.
+rok;r.
+rok życia;rż.
+rosyjski;ros.
+rozdział;rozdz.
+rycina;ryc.
+rysunek;rys.
+senator;sen.
+senior;sen.
+sekunda;s.
+sinus;sin
+Spółka Akcyjna SA
+stomatolog;stom.
+strona;str.
+strony;ss.
+sygnatura;sygn.
+świętej pamięci;śp.
+święty;św.
+tabela;tab.
+tablica;tab.
+to jest;tj.
+tom;t.
+ubiegły miesiąc;ub. m.
+ubiegły rok;ub. r.
+ukraiński;ukr.
+ulica;ul.
+versus;vs.
+według;wg
+wolt;V
+wschodni;wsch.
+wydział;wydz.
+wyjątek;wyj.
+wymowa;wym.
+wymawiaj;wym.
+wyżej wymieniony;ww.
+ksiądz;ks.
+z ograniczoną odpowiedzialnością;z o.o.
+zachodni;zach.
+zagraniczny;zagr.
+zdjęcie;fot.
+zobacz;zob.
+zoologia;zool.
+żeński;żeń.
+źródło;źr.
+źródłowy;źr.
+
+komisja edukacji narodowej;KEN
+urząd skarbowy;US
+agencja bezpieczeństwa wewnętrznego;ABW
+centralne biuro antykorupcyjne;CBA
+centralne biuro śledcze;CBŚ
+zakład ubezpieczeń społeczenych;ZUS
+urząd miasta;UM
